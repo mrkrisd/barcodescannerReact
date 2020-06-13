@@ -1,0 +1,3 @@
+rootProject.name = 'fotl8'
+
+include ':app'
